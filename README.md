@@ -7,8 +7,7 @@
 This project write and read data from 25C080DS21230D EEPROM memory using self-made SPI protocol.
 <br>File containing code is `SPI_EEPROM_READER_WRITER/SPI_EEPROM_READER_WRITER.ino`
 
-### How it works in action
-<img src="https://user-images.githubusercontent.com/75041222/225672675-37680f7c-9165-46a6-b36f-702a5217f645.jpg" width="512" height="384">
+### How it works in action ###
 
 The program saves the value in specified memory cell of EEPROM and then reads it and prints it in serial monitor.<br>
 Value increases every iteration.<br>
